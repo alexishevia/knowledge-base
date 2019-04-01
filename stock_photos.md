@@ -1,0 +1,7 @@
+- https://unsplash.com/
+- https://commons.wikimedia.org/wiki/Main_Page
+- https://picjumbo.com
+- http://www.gratisography.com/
+- https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b#.hmfxq9sjg
+- https://medium.com/vantage/these-39-sites-have-amazing-stock-photos-you-can-use-for-free-4ddf3524e1d9#.yf023y9hv
+- https://designschool.canva.com/blog/free-stock-photos/
