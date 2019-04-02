@@ -1,9 +1,12 @@
 ## Additional Resources
-- [Go Tour](https://tour.golang.org)
-- [How to Write Go Code](https://golang.org/doc/code.html)
-- [Learn Go by Writing Tests](https://quii.gitbook.io/learn-go-with-tests)
-- [Go Best Practices](https://www.youtube.com/watch?v=MzTcsI6tn-0&t=42s)
-- [Effective Go](https://golang.org/doc/effective_go.html)
-- [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
-- [Level Up Your Web Apps With Go](https://www.sitepoint.com/premium/books/level-up-your-web-apps-with-go)
-- [Go Presentation Tool](http://halyph.com/blog/2015/05/18/golang-presentation-tool.html)
+- Official Golang resources
+    - [Go Tour](https://tour.golang.org) - interactive introduction to Go. Perfect to get your feet wet.
+    - [How to Write Go Code](https://golang.org/doc/code.html) - introduction to the `go tool` and some basic stuff like code organization.
+    - [Effective Go](https://golang.org/doc/effective_go.html) - tips for writing clear, idiomatic Go code.
+    - [Go Books](https://github.com/golang/go/wiki/Books) - exhaustive collection of Go books.
+- [Gophercises](https://gophercises.com) - free video series based around some fun exercises, with solutions in there too.
+- [Go Best Practices](https://www.youtube.com/watch?v=MzTcsI6tn-0&t=42s) - 40 min video on best practices.
+- [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) - 50 min video from Google I/O 2012. Even though it is a bit old, I found it really helpful to get on the "Go concurrency mindset".
+- [Learn Go by Writing Tests](https://quii.gitbook.io/learn-go-with-tests) - a free, online book that approaches learning Go from a TDD approach.
+- [Level Up Your Web Apps With Go](https://www.sitepoint.com/premium/books/level-up-your-web-apps-with-go) - book that approaches learning Go from a Web development point of view.
+- [Go Presentation Tool](http://halyph.com/blog/2015/05/18/golang-presentation-tool.html) - If you ever have to do a Go-related talk, check out this tool first.
