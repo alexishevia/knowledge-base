@@ -9,13 +9,34 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">Loading Content. Please wait...</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'knowledge-base',
+      repo: 'https://github.com/alexishevia/knowledge-base',
+      search: 'auto',
+      loadSidebar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      formatUpdated: '{YYYY}-{MM}-{DD}',
+      plugins: [
+        function(hook) {
+          var footer = [
+            '<hr/>',
+            '<footer style="text-align:right">',
+            '<span>last modified: {docsify-updated} </span>',
+            '</footer>'
+          ].join('');
+          hook.beforeEach(function(html) {
+            return html + footer;
+          });
+        }
+      ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-go.min.js"></script>
 </body>
 </html>
