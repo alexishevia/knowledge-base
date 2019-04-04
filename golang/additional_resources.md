@@ -7,6 +7,7 @@
 - [Gophercises](https://gophercises.com) - free video series based around some fun exercises, with solutions in there too.
 - [Go Best Practices](https://www.youtube.com/watch?v=MzTcsI6tn-0&t=42s) - 40 min video on best practices.
 - [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) - 50 min video from Google I/O 2012. Even though it is a bit old, I found it really helpful to get on the "Go concurrency mindset".
+- [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1) - a blogpost that goes into detail about how to structure your code. Recommended by the "Go Best Practices" talk.
 - [Learn Go by Writing Tests](https://quii.gitbook.io/learn-go-with-tests) - a free, online book that approaches learning Go from a TDD approach.
 - [Level Up Your Web Apps With Go](https://www.sitepoint.com/premium/books/level-up-your-web-apps-with-go) - book that approaches learning Go from a Web development point of view.
 - [Go Presentation Tool](http://halyph.com/blog/2015/05/18/golang-presentation-tool.html) - If you ever have to do a Go-related talk, check out this tool first.
