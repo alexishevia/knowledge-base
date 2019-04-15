@@ -11,3 +11,4 @@
 - [Learn Go by Writing Tests](https://quii.gitbook.io/learn-go-with-tests) - a free, online book that approaches learning Go from a TDD approach.
 - [Level Up Your Web Apps With Go](https://www.sitepoint.com/premium/books/level-up-your-web-apps-with-go) - book that approaches learning Go from a Web development point of view.
 - [Go Presentation Tool](http://halyph.com/blog/2015/05/18/golang-presentation-tool.html) - If you ever have to do a Go-related talk, check out this tool first.
+- [JSON-to-Go](https://mholt.github.io/json-to-go/) - Convert JSON to Go struct

@@ -199,3 +199,6 @@ func main() {
 {"name":"JSON in Go","author_name":"Mal Curtis"}
 10 reasons you will love Go by Jeff Winger
 ```
+
+Helpful tool:  
+[JSON-to-Go](https://mholt.github.io/json-to-go/) - Convert JSON to Go struct
