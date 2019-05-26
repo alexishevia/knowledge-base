@@ -1,5 +1,14 @@
 # Vim
 
+## Debugging syntastic and eslint
+
+Sometimes you'll notice syntastic is not flagging errors in your JS file.
+
+1. Figure out which filetype and checker are running (make sure it is using eslint):
+  `:SyntasticInfo`
+2. Try running eslint directly on your file:
+  `./node_modules/.bin/eslint ./path/to/file.js`
+
 ## How to manually set the eslint path for syntastic
 Add the following to your project's `.vimrc` file:
 ```
