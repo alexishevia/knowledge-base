@@ -9,4 +9,5 @@
     - [Vim + Go](/golang/vim_go)
     - [Concurrency](/golang/concurrency)
     - [Testing](/golang/testing)
+    - [Documentation](/golang/documentation)
     - [Additional Resources](/golang/additional_resources)
