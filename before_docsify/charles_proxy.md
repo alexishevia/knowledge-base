@@ -17,3 +17,8 @@ For https requests to work, you need to add each host at Charles `Proxy > SSL Pr
 
 You will also need to install Charles root certificate following these instructions:
 https://askubuntu.com/questions/73287/how-do-i-install-a-root-certificate
+
+### Using an Android Virtual Device with Charles
+Inside the running Android device, go to `Settings > Network & Internet > Wifi` and click on the pencil icon to edit.
+Set the http proxy to be the IP address of your host computer + port 8888 (or whichever port you configured in Charles)
+You can confirm your IP address by going to Charles `Help > Local IP Address`
