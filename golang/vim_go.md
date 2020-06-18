@@ -6,6 +6,7 @@ Tutorials:
 
 - [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) 
 - [Go Development with Vim-go](https://www.youtube.com/watch?v=7BqJ8dzygtU)
+- [Vim IDE setup for Go](https://tpaschalis.github.io/vim-go-setup/)
 
 ## Useful Commands
 - `:GoDef` `-f` jump to the definition of the current function.
