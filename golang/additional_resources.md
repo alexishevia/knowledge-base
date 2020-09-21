@@ -3,6 +3,7 @@
     - [Go Tour](https://tour.golang.org) - interactive introduction to Go. Perfect to get your feet wet.
     - [How to Write Go Code](https://golang.org/doc/code.html) - introduction to the `go tool` and some basic stuff like code organization.
     - [Effective Go](https://golang.org/doc/effective_go.html) - tips for writing clear, idiomatic Go code.
+    - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) - common comments made during reviews of Go code, so that a single detailed explanation can be referred to by shorthands
     - [Go Books](https://github.com/golang/go/wiki/Books) - exhaustive collection of Go books.
 - [Gophercises](https://gophercises.com) - free video series based around some fun exercises, with solutions in there too.
 - [Go Best Practices](https://www.youtube.com/watch?v=MzTcsI6tn-0&t=42s) - 40 min video on best practices.
