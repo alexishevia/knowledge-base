@@ -224,8 +224,8 @@ The recommended way of running Kubernetes locally is using minikube.
     ```
 2. Install minikube
     https://kubernetes.io/docs/tasks/tools/install-minikube/
-    
-    
+
+
 ### Commands
 ```sh
 # start minikube    
@@ -392,38 +392,3 @@ spec:
 - Kubernetes By Example: http://kubernetesbyexample.com/
 - Learning Kubernetes: https://www.linkedin.com/learning/learning-kubernetes/
 - Kubernetes for Developers: https://www.packtpub.com/virtualization-and-cloud/kubernetes-developers
-
-### Basic Concepts
-- Kubernetes versus swarm: https://platform9.com/blog/kubernetes-docker-swarm-compared/
-- Azure Container service + Kubernetes: https://azure.microsoft.com/en-us/services/container-service/
-- Persistent storage: https://blog.bigbinary.com/2017/04/12/using-kubernetes-persistent-volume-for-persistent-data-storage.html
-- Controllers: https://www.mirantis.com/blog/kubernetes-replication-controller-replica-set-and-deployments-understanding-replication-options/
-- Rolling deployments: https://tachingchen.com/blog/Kubernetes-Rolling-Update-with-Deployment/
-- Jobs: https://kubernetes.io/docs/tasks/job/coarse-parallel-processing-work-queue/
-- Service Definition: https://kubernetes.io/docs/concepts/services-networking/service/#defining-a-service
-- Using a service to expose your applications: https://kubernetes.io/docs/tutorials/kubernetes-basics/expose-intro/
-- Networking with Services: https://kubernetes.io/docs/concepts/services-networking/service/
-- Service networking: https://kubernetes.io/docs/concepts/services-networking/service/#the-gory-details-of-virtual-ips
-- Pods + Services: https://thenewstack.io/kubernetes-way-part-one/
-- Connecting applications with services : https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
-
-### Logging and Monitoring
-- Logging: https://theagileadmin.com/2010/08/20/logging-for-success/
-- Logging with kibana and elasticsearch: https://kubernetes.io/docs/tasks/debug-application-cluster/logging-elasticsearch-kibana/
-- Logging with fluentd, kibana and elasticsearch: https://logz.io/blog/kubernetes-log-analysis/
-- cAdvisor: https://hub.docker.com/r/google/cadvisor/
-- Monitoring: http://blog.kubernetes.io/2017/05/kubernetes-monitoring-guide.html
-- Comparing monitoring options: http://rancher.com/comparing-monitoring-options-for-docker-deployments/
-- Monitoring: https://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/
-- Prometheus: https://jaxenter.com/prometheus-monitoring-pros-cons-136019.html
-- Heapster: https://deis.com/blog/2016/monitoring-kubernetes-with-heapster/
-- Helm charts: https://github.com/kubernetes/charts/tree/master/stable
-
-### Local Development
-- Using K8s for local development: https://nemethgergely.com/using-kubernetes-for-local-development/
-
-### Authentication
-- Kubernetes authentication: https://kubernetes.io/docs/admin/authentication/
-- RBAC+ABAC: http://blog.kubernetes.io/2017/04/rbac-support-in-kubernetes.html
-- RBAC Support: http://blog.kubernetes.io/2017/04/rbac-support-in-kubernetes.html
-- RBAC config: https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/
