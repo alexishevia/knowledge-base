@@ -4,7 +4,7 @@ Cron is a time-based job scheduler included by default in most unix distribution
 Using cron you can run scripts periodically, without much hassle.
 
 ## Cron.daily
-You can set tasks to be run daily by adding a file with your script to `/etc/cron.daily`
+You can set tasks to be run daily by adding a file with your script to the `/etc/cron.daily/` directory
 
 ## Cron Log
 On a default Linux installation, the cron jobs get logged to `/var/log/syslog`
@@ -15,4 +15,4 @@ grep CRON /var/log/syslog
 ```
 
 ## Test your cron tasks
-`run-parts --verbose --test /etc/cron.daily`
+`run-parts --verbose /etc/cron.daily`
