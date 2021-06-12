@@ -191,7 +191,7 @@ http://www.seeedstudio.com/depot/ARDX-The-starter-kit-for-Arduino-p-1153.html
   build interactive command line tools, by parsing arguments and generating an elegant user interface
 
 # Streams
-Docs: https://nodejs.org/docs/latest-v11.x/api/stream.html
+Docs: https://nodejs.org/docs/latest-v14.x/api/stream.html
 
 ## Where to get a stream
 
