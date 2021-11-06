@@ -145,14 +145,14 @@ Delete database
 DROP DATABASE dbname
 ```
 
-## Tablas
+## Tables
 
 Show tables
 ```
 \dt
 ```
 
-Crear Tabla
+Create Table
 ```
 CREATE TABLE <nombreTabla> (<campo1> <tipo de dato1>, <campo2> <tipo de dato2>, CONSTRAINT <nombre del constraint> PRIMARY KEY(<campo primario>));
 
@@ -382,7 +382,7 @@ earth_distance(
 ```
 
 find rows where distance is less than 100 meters from {50, -60}
-```
+```sql
 SELECT *
 FROM my_table
 WHERE earth_box(ll_to_earth(50, -60), 100) @>
